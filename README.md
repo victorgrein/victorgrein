@@ -21,7 +21,7 @@ I build and deploy reliable, production-ready AI agents using orchestration, too
 - 🧵 **[Texfy.AI](https://texfy.vercel.app/)** - AI textile production planning with Agno and LangChain; 2nd-place hackathon project.
 - 🤖 **[Spec Crew](https://github.com/victorgrein/spec-crew)** - Spec-driven CrewAI toolkit for Claude Code and OpenCode.
 - 🧰 **[Agent Skills](https://github.com/victorgrein/victorgrein-skills)** - Reusable skills for AI coding agents.
-- 🧉 **[Mate Loop](https://github.com/victorgrein/opencode-mate-loop)** - Gated agent-loop workflow for OpenCode.
+- 🧉 **[Mate Loop](https://github.com/victorgrein/mate-loop)** - Gated agent-loop workflow for OpenCode.
 - 📄 **[Docling Converter](https://github.com/victorgrein/doclingTemplate)** - Batch document-to-Markdown conversion with Docling.
 - 💬 **[WhatsApp AI](https://github.com/victorgrein/whatsappAi)** - Personal AI assistant for WhatsApp. _Work in progress._
 
