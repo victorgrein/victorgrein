@@ -18,7 +18,7 @@ I build and deploy reliable, production-ready AI agents using orchestration, too
 ## Current Projects
 
 - ⚖️ **[Combinado Não Sai Caro](https://contratocombinado.com/)** - Plain-language contracts with CrewAI Flow; 3rd-place hackathon project.
-- 🧵 **[Texfy.AI](https://texfy.com.br/)** - AI textile production planning with Agno and LangChain; 2nd-place hackathon project.
+- 🧵 **[Texfy.AI](https://texfy.vercel.app/)** - AI textile production planning with Agno and LangChain; 2nd-place hackathon project.
 - 🤖 **[Spec Crew](https://github.com/victorgrein/spec-crew)** - Spec-driven CrewAI toolkit for Claude Code and OpenCode.
 - 🧰 **[Agent Skills](https://github.com/victorgrein/victorgrein-skills)** - Reusable skills for AI coding agents.
 - 🧉 **[Mate Loop](https://github.com/victorgrein/opencode-mate-loop)** - Gated agent-loop workflow for OpenCode.
