@@ -15,7 +15,7 @@ I build and deploy reliable, production-ready AI agents using orchestration, too
 ![AI Agents](https://img.shields.io/badge/-AI_Agents-111827?style=flat-square&logo=openai&logoColor=white)
 ![MCP](https://img.shields.io/badge/-MCP-0F766E?style=flat-square)
 
-## Projects
+## Current Projects
 
 - ⚖️ **[Combinado Não Sai Caro](https://contratocombinado.com/)** - Plain-language contracts with CrewAI Flow; 3rd-place hackathon project.
 - 🧵 **[Texfy.AI](https://texfy.com.br/)** - AI textile production planning with Agno and LangChain; 2nd-place hackathon project.
@@ -24,6 +24,9 @@ I build and deploy reliable, production-ready AI agents using orchestration, too
 - 🧉 **[Mate Loop](https://github.com/victorgrein/opencode-mate-loop)** - Gated agent-loop workflow for OpenCode.
 - 📄 **[Docling Converter](https://github.com/victorgrein/doclingTemplate)** - Batch document-to-Markdown conversion with Docling.
 - 💬 **[WhatsApp AI](https://github.com/victorgrein/whatsappAi)** - Personal AI assistant for WhatsApp. _Work in progress._
+
+## Legacy Work
+
 - 📊 **[Power BI Financial Control Dashboard](https://github.com/victorgrein/PowerBIFinancialControlDash)** - Financial control and reporting in Power BI.
 - 🚢 **[Kaggle Titanic Competition](https://github.com/victorgrein/KaggleTitanicCompetition)** - Survival prediction model for Kaggle's Titanic challenge.
 - 🗄️ **[Oracle Tuning Queries](https://github.com/victorgrein/Oracle-tuning-queries)** - Practical Oracle performance-tuning scripts.
